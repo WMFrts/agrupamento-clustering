@@ -16,62 +16,44 @@
 
 <h3>BIBLIOTECAS/IMPORTAÇÕES</h3>
 
+* plotly.express
+* plotly.graph_objs   
+* numpy
+* KMeans
+* make_blobs
+* PCA
+* dendrogram
+* AgglomerativeClustering
+* DBSCAN
+* matplotlib.pyplot 
 
-* pandas
-
-* numpy 
-
-* seaborn
-
-
-* matplotlib.pyplot
+<br>
 
 <h3>ÍNDICE</h3>
 
 <dl>
   
-<dt>1 REGRESSÃO</dt>
-<dt>1.1 BASE PLANO DE SAÚDE - EXPLORAÇÃO DE DADOS</dt>
-<dt>1.2 PERGUNTA SOBRE O CONTEXTO</dt>
-<dt>1.3 COEFICIENTE DE CORRELAÇÃO</dt>
-<dt>1.4 BASE PREÇO DAS CASAS - EXPLORAÇÃO DE DADOS</dt>
-<dt>1.5 PERGUNTA SOBRE O CONTEXTO</dt>
-<dt>1.6 CRIAÇÃO DO MODELO DE REGRESSÃO LINEAR</dt>
-<dt>1.7 MÉTRICAS DE AVALIAÇÃO</dt>
-<dt>2 REGRESSÃO LINEAR MÚLTIPLA</dt>
-<dt>3 REGRESSÃO POLINOMIAL</dt>
-<dt>3.1 BANCO PLANO DE SAÚDE 2 - EXPLORAÇÃO DE DADOS</dt>
-<dt>3.2 CRIAÇÃO DO MODELO DE REGRESSÃO POLINOMIAL</dt>
-<dt>3.3 TESTE DO ALGORITMO</dt>
-<dt>3.4 PREVISÕES</dt>
-<dt>3.5 BASE PREÇO DAS CASAS</dt>
-<dt>3.6 CRIAÇÃO DO MODELO DE REGRESSÃO POLINOMIAL</dt>
-<dt>3.7 MÉTRICAS DE AVALIAÇÃO</dt>
-<dt>4 REGRESSÃO COM ÁRVORES DE DECISÃO</dt>
-<dt>4.1 BASE PLANO DE SAÚDE</dt>
-<dt>4.2 BASE PREÇO DAS CASAS</dt>
-<dt>4.3 CRIAÇÃO DA REGRESSÃO COM ÁRVORES DE DECISÃO</dt>
-<dt>5 REGRESSÃO COM RANDOM FOREST</dt>
-<dt>5.1 BASE PLANO DE SAÚDE 2</dt>
-<dt>5.2 BASE PREÇO DAS CASAS</dt>
-<dt>6 REGRESSÃO COM VETORES DE SUPORTE</dt>
-<dt>6.1 BASE PLANO DE SAÚDE</dt>
-<dt>6.2 SUPPORT VECTOR REGRESSION</dt>
-<dt>6.3 KERNELS</dt>
-<dt>6.4 PREVISÃO</dt>
-<dt>6.5 BASE PREÇO DAS CASAS  </dt>
-<dt>6.6 CRIAÇÃO DO ALGORITMO SVM, TESTE E PREVISÕES</dt>
-<dt>7 REGRESSÃO COM REDES NEURAIS</dt>
-<dt>7.1 BASE PLANO DE SAÚDE 2 </dt>
-<dt>7.2 CRIAÇÃO DA REDE NEURAL </dt>
-  
-  
-  
-  
+<dt>1 AGRUPAMENTO COM K-MEANS</dt>
+<dt>1.1 BIBLIOTECA</dt>
+<dt>1.2 BASE IDADE E SALÁRIO</dt>
+<dt>1.3 TESTE RANDÔMICO</dt>
+<dt>1.4 BASE CARTÃO DE CRÉDITO</dt>
+<dt>2 AGRUPAMENTO HIERÁRQUICO</dt>
+<dt>2.1 BASE SALÁRIO</dt>
+<dt>2.2 BASE CARTÃO DE CRÉDITO</dt>
+<dt>3 DBSCAN</dt>
+<dt>3.1 BASE SALARIO E IDADE</dt>
+<dt>3.2 BASE CARTÃO DE CRÉDITO</dt>
+<dt>4 K-MEANS, HIERÁRQUICO E DBSCAN - COMPARAÇÕES</dt>
+<dt>4.1 BASE DE DADOS PREDEFINIDAS</dt>
+<dt>4.2 K-MEANS</dt>
+<dt>4.3 HIERÁRQUICO</dt>
+<dt>4.4 DBSCAN</dt>
+
   
 </dl>
 
-
+<br>
 <h3>REFERÊNCIAS</h3>
 
 
