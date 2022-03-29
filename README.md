@@ -7,4 +7,4 @@ clusters. Representa uma das principais etapas de processos de análise de dados
 denominada análise de clusters.  De uma forma geral, Clusterização consiste
 em agrupar elementos de uma determinada base de dados em subgrupos, onde esses
 elementos que compartilham as mesmas características estarão agrupadas em um mesmo cluster </p> <br>
-<p align = "JUSTIFY"> Visto a importância e utilidade dessa técnica para a compreensão do comportamento de dados, este estudo aplica o algoritmo K-means, Agrupamento Hierárquico e Clusterização Espacial Baseada em Densidade de Aplicações com Ruído, bem como a comparação entre as aplicações dessas técnicas em duas bases de dados, uma sobre idade relacionada à salário e outra sobre cartão de crédito.
+<p align = "JUSTIFY"> Visto a importância e utilidade dessa técnica para a compreensão do comportamento de dados, este estudo aplica o algoritmo K-means, Agrupamento Hierárquico e Clusterização Espacial Baseada em Densidade de Aplicações com Ruído, bem como a comparação entre as aplicações dessas técnicas em duas bases de dados; uma sobre idade relacionada à salário e outra sobre cartão de crédito.
