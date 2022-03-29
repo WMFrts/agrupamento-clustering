@@ -17,7 +17,7 @@ elementos que compartilham as mesmas características estarão agrupadas em um m
   
 <p align = "JUSTIFY"> Abaixo, segue um dos dendogramas que constam nesse estudo. Quanto maior a distância entre os números do eixo x, maior é a diferença entre os dados .Para definir o número de cluster, deve ser escolhida a maior barra vertical, a barra escolhida deve ter o menor número de cruzamento. Escolhida a barra, traça-se uma linha horinzontal a esta e conta-se o número de barras que foram tocadas - nesse caso, serão 3; então, 3 clusters </p>
 
-<img src="https://github.com/WMFrts/regressao/blob/main/grafico-correlacao.png">
+<img src="https://github.com/WMFrts/agrupamento-clustering/blob/main/dendograma.png?raw=true">
 
 <h3>BIBLIOTECAS/IMPORTAÇÕES</h3>
 
@@ -80,7 +80,8 @@ elementos que compartilham as mesmas características estarão agrupadas em um m
 <h3>REFERÊNCIAS</h3>
 
 
-<p align = 'JUSTIFY'>REGRESSÃO (ESTATÍSTICA). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <a href= "https://pt.wikipedia.org/w/index.php?title=Regress%C3%A3o_(estat%C3%ADstica)&oldid=62175676">Regressão</a>. Acesso em: 28 fev. 2022.
+<p align = 'JUSTIFY'>Hartigan, J.A. (1975). “Clustering Algorithms”, John Wiley.
 
 
-<p align = 'JUSTIFY'> BHALLA, Deepanshu. 15 Types of Regression in Data Science.Listen Data, Delhi, 25, março, 2018. Disponível em:<a href= "https://www.listendata.com/2018/03/regression-analysis.html"> 15 Types of Regression in Data Science</a>. Acesso em: 28 fev. 2022.
+<p align = 'JUSTIFY'> Jain, A. K., Murty, M. N. and Flynn, P. J. (1999). “Data clustering: a review”. ACM
+Computing Surveys, 31(3), 264 – 323.
